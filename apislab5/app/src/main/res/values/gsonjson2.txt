@@ -1,0 +1,13 @@
+
+
+[
+  {
+    "mandal": 1,
+    "meter": "Gayatri",
+    "sukta": 1,
+    "sungby": "Madhuchchhanda Vaishwamitra",
+    "sungbycategory": "human male",
+    "sungfor": "Agni",
+    "sungforcategory": "divine male"
+  }
+]
